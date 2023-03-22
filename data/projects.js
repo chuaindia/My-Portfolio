@@ -1,7 +1,7 @@
 const projects = [
     {
       title: "Recipe App",
-      description: "This is an app in wich you can reserve a tour, create a tour, delete a tour and show all your reserved tours. How this App works is like when you run the app you will see the screen with all available tours. You can see their details but to reserve a Tour you need to Login ( if not Signup need to do it before ). Then you can reserve any number of available tours and cancel the reservation anytime. You can also start your own bussiness by creating a tour and incase you dont want it after creating you can delete it but all the reservation will also be destroyed! ",
+      description: "Recipe App keeps track of all your recipes and ingredients. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. ",
       imageUrl: "./images/project_images/recipe.png",
       technologies: ["Ruby on Rails", "React", "Redux", "JavaScript", "Ruby", "Swipper", "CryptoJs"],
       liveVersion: "https://chuaindia.github.io/ROR_GROUP_PROJECT/",
@@ -18,12 +18,12 @@ const projects = [
     },
   
     {
-      title: "Token World (Crypto)",
+      title: "Crypto-Currency App",
       description: "A website that provides accurate data about various crypto currencies. It will show you everything you need to know. This includes marketcap, top and low sellings, its history and gave you some core advices you should know before taking any step.",
-      imageUrl: "./images/project_images/Cryptocurrency_project.webp",
+      imageUrl: "./images/project_images/cryptocurrency.png",
       technologies: ["React", "Redux", "Jest", "JavaScript", "CSS", "Html"],
-      liveVersion: "https://tokenworld.netlify.app",
-      source: "https://github.com/ABDULALI3468/crypto-capstone",
+      liveVersion: "https://capstone-react-redux-chuaindia.netlify.app/",
+      source: "https://github.com/chuaindia/capstone-react-redux",
     },
   
     {
