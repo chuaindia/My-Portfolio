@@ -1,11 +1,11 @@
 const projects = [
     {
-      title: "BookMe",
+      title: "Recipe App",
       description: "This is an app in wich you can reserve a tour, create a tour, delete a tour and show all your reserved tours. How this App works is like when you run the app you will see the screen with all available tours. You can see their details but to reserve a Tour you need to Login ( if not Signup need to do it before ). Then you can reserve any number of available tours and cancel the reservation anytime. You can also start your own bussiness by creating a tour and incase you dont want it after creating you can delete it but all the reservation will also be destroyed! ",
-      imageUrl: "./images/project_images/bookme.png",
+      imageUrl: "./images/project_images/recipe.png",
       technologies: ["Ruby on Rails", "React", "Redux", "JavaScript", "Ruby", "Swipper", "CryptoJs"],
-      liveVersion: "https://book-tours.netlify.app/",
-      source: "https://github.com/ABDULALI3468/bookMe-frontend",
+      liveVersion: "https://chuaindia.github.io/ROR_GROUP_PROJECT/",
+      source: "https://github.com/chuaindia/ROR_GROUP_PROJECT",
     },
   
     {
