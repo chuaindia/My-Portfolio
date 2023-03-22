@@ -27,12 +27,12 @@ const projects = [
     },
   
     {
-      title: "Budget Tracker",
-      description: "A classic budget app to keep track of your expenses by category, made with Rails, Turbo's Stimulus and CSS.",
-      imageUrl: "./images/project_images/budget-app.png",
-      technologies: ["Ruby on Rails", "Ruby", "Devise", "JavaScript", "CSS", "Html"],
-      liveVersion: "https://yours-budget-application.herokuapp.com/",
-      source: "https://github.com/ABDULALI3468/Budget-app",
+      title: "Pokemon App",
+      description: "The Javascript capstone project is about building a web application based on an external API. The data of the webapp will be provided by the chosen API.",
+      imageUrl: "./images/project_images/pokemon.jpg",
+      technologies: ["Git", "GitHub", "WebPack", "JavaScript", "CSS", "Html"],
+      liveVersion: "https://drive.google.com/file/d/1_GP1asMj9KdiK5x0zGsmZJiFx9PYmj65/view",
+      source: "https://github.com/chuaindia/Pokemon-WebApp",
     },
   
     {
