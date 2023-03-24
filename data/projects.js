@@ -1,20 +1,20 @@
 const projects = [
     {
-      title: "Recipe App",
-      description: "Recipe App keeps track of all your recipes and ingredients. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. ",
-      imageUrl: "./images/project_images/recipe.png",
-      technologies: ["Ruby on Rails", "React", "Redux", "JavaScript", "Ruby", "Swipper", "CryptoJs"],
-      liveVersion: "https://chuaindia.github.io/ROR_GROUP_PROJECT/",
-      source: "https://github.com/chuaindia/ROR_GROUP_PROJECT",
+      title: "Budget App",
+      description: "With this App, one can manage budget: A list of transactions is there which associated with a category, so that one can see how much money to be spent for a particular choice. A user is allowed to: register and log in, so that the data is private to them. New category and new transaction can be created also. ",
+      imageUrl: "./images/project_images/budget.png",
+      technologies: ["Ruby", "Migration", "Ruby on Rails", "Rspec", "MVC"],
+      liveVersion: "https://www.loom.com/share/8cb3175e5c07456a8e902d6bd9639749",
+      source: "https://github.com/chuaindia/ror_capstone_budget_app",
     },
   
     {
-      title: "Foodify capstone project",
-      description: "This is a website that showcases top-notch food and its recipes from all over the world from Britain to Australia, from veg to meat. It will take your response in the form of likes and comments.",
-      imageUrl: "./images/project_images/foodify_website.png",
-      technologies: ["MEALDB API", "JavaScript", "Webpack", "CSS", "Html", "ES6 modules"],
-      liveVersion: "https://abdulali3468.github.io/Foodify_capstone_project/",
-      source: "https://github.com/ABDULALI3468/Foodify_capstone_project",
+      title: "Recipe App",
+      description: "Recipe App keeps track of all your recipes and ingredients. It will allow you to save ingredients, keep track of what you have, create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. ",
+      imageUrl: "./images/project_images/recipe.png",
+      technologies: ["Ruby on Rails", "React", "Redux", "JavaScript", "Ruby"],
+      liveVersion: "https://chuaindia.github.io/ROR_Group_Project/",
+      source: "https://github.com/chuaindia/ROR_GROUP_PROJECT",
     },
   
     {
@@ -30,17 +30,17 @@ const projects = [
       title: "Pokemon App",
       description: "The Javascript capstone project is about building a web application based on an external API. The data of the webapp will be provided by the chosen API.",
       imageUrl: "./images/project_images/pokemon.jpg",
-      technologies: ["Git", "GitHub", "WebPack", "JavaScript", "CSS", "Html"],
-      liveVersion: "https://drive.google.com/file/d/1_GP1asMj9KdiK5x0zGsmZJiFx9PYmj65/view",
+      technologies: ["API", "GitHub", "WebPack", "JavaScript", "CSS", "Html"],
+      liveVersion: "https://effortless-stardust-ca5ebb.netlify.app/",
       source: "https://github.com/chuaindia/Pokemon-WebApp",
     },
   
     {
-      title: "Space Travellers' Hub",
+      title: "Space Travelers' Hub",
       description: "This is a web application that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions.",
       imageUrl: "./images/project_images/space_travellers_hub.jpg",
-      technologies: ["JavaScript", "Webpack", "CSS", "Html", "ES6 modules"],
-      liveVersion: "https://chuaindia.github.io/harry_tanusri_space_travelers_hub/",
+      technologies: ["JavaScript", "Webpack", "CSS", "HTML", "ES6 modules"],
+      liveVersion: "https://gilded-twilight-c93f79.netlify.app/",
       source: "https://github.com/chuaindia/harry_tanusri_space_travelers_hub",
     },
   
@@ -48,9 +48,9 @@ const projects = [
       title: "Math Magicians",
       description: "In this project I am creating a Single Page App using React regarding basic Calculator and its functionalities.",
       imageUrl: "./images/project_images/mathmagician.jpg",
-      technologies: ["React", "JavaScript", "CSS", "ES6 modules", "JSX"],
-      liveVersion: "https://chuaindia.github.io/React-First-Project/",
-      source: "https://github.com/ABDULALI3468/React-First-Project",
+      technologies: ["React", "JavaScript", "CSS", "ES6 modules", "HTML"],
+      liveVersion: "https://dreamy-cranachan-6d2e07.netlify.app/",
+      source: "https://github.com/chuaindia/React-First-Project",
     },
   ];
   
