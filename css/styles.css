@@ -14,7 +14,6 @@ body {
 }
 
 ::-moz-selection {
-  /* Code for Firefox */
   color: var(--text-color-2);
   background: var(--bg-color);
 }
@@ -40,12 +39,9 @@ body {
   --bg-color: #f0f9cf;
 }
 
-/* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: linear-gradient(0deg, rgb(166, 195, 34) 0%, rgb(17, 208, 237) 100%);
 }
-
-/* -------------------- */
 
 ::selection {
   color: var(--text-color-2);
@@ -75,8 +71,6 @@ body {
   display: flex;
   align-items: end;
 }
-
-/* -------------------------------------------------------------------------------------------------------------------------- */
 
 .nav-items {
   display: flex;
@@ -129,8 +123,6 @@ body {
   width: 100%;
   opacity: 1;
 }
-
-/* -------------------------------------------------------------------------------------------------------------------------- */
 
 .hamburger {
   position: absolute;
@@ -207,8 +199,6 @@ body {
   list-style: none;
 }
 
-/* ------------------------------------------------------------------------------ */
-
 .go-down-container {
   width: 80px;
   height: 80px;
@@ -249,8 +239,6 @@ body {
 .go-down-container:nth-child(1) a::before {
   background: var(--text-color-3);
 }
-
-/* ------------------------------------------------------------------------------ */
 
 .grid {
   display: flex;
@@ -770,12 +758,6 @@ body {
     transition: 0.3s;
   }
 
-  /* -------------------------------------------------------------------------------------------------------------------------- */
-
-  /* .container {
-    padding: 0 104px;
-  } */
-
   .lastpage {
     display: flex;
     justify-content: space-between;
@@ -855,13 +837,6 @@ body {
     padding-right: 19px;
     list-style: none;
   }
-
-  /* .grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    justify-content: center;
-    grid-gap: 24px;
-  } */
 
   .conclusion-text {
     width: 40%;

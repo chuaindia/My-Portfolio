@@ -50,7 +50,6 @@
 }
 
 .popup-title {
-  /* width: 259px; */
   font-style: normal;
   font-weight: 600;
   margin-top: 10px;
@@ -159,9 +158,6 @@
   }
 
   .popup-buttons {
-    /* position: absolute;
-    right: 25px;
-    bottom: 188px; */
     width: 300px;
   }
 

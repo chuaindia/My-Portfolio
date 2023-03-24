@@ -26,7 +26,6 @@ const animate = () => {
       start: 'bottom 50%',
       toggleActions: 'restart pause reverse pause',
       scrub: 1,
-      // toggleClass: "red",
     },
   });
 
