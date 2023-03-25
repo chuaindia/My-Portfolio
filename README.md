@@ -1,14 +1,5 @@
 # My-Portfolio
 
-<div align="center">
-
-  <img src="./images/README-logo.png" alt="logo" width="200" height="auto" />
-  <h1>README for our Project</h1>
-
-</div>
-
-<br />
-
 <!-- Table of Contents -->
 
 # Table of Contents
