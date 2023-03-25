@@ -127,5 +127,4 @@ Use this section to mention useful resources and libraries that you have used in
 
 - [Roberto Banos](https://github.com/rbanos-mv)
 - [Awesome README](https://github.com/ABDULALI3468/MY_PORTFOLIO/README.md)
-- [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
 - [Readme Template](https://github.com/othneildrew/Best-README-Template)
