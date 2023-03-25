@@ -5,13 +5,6 @@
   <img src="./images/README-logo.png" alt="logo" width="200" height="auto" />
   <h1>README for our Project</h1>
 
-<h4>
-    <a href="https://abdulali3468.github.io/My-Portfolio/">Demonstration</a>
-  <span> · </span>
-    <a href="https://github.com/chuaindia/My-Portfolio/issues/">Make Issues</a>
-  <span> · </span>
-    <a href="https://github.com/chuaindia/My-Portfolio/issues/">Request Feature</a>
-  </h4>
 </div>
 
 <br />
