@@ -21,18 +21,10 @@
 
 ## :star2: About the Project
 
-<!-- Screenshots -->
-
-### :camera: Screenshots
-
-<div align="center" >
-  <img src="images\project_images\portflio.png" title="Project Image"
-  style="display: inline-block; margin: 5rem auto; width: 70%; height: auto; border-radius: 20px;" alt="screenshot" />
-</div>
 
 <!-- TechStack -->
 
-### :space_invader: Tech Stack
+### Tech Stack
 
 <details>
   <summary>Client</summary>
@@ -45,7 +37,7 @@
 
 <!-- Features -->
 
-### :dart: Features
+### Features
 
 - How I can be ac employee for your company?
 - My Project Details.
@@ -54,7 +46,7 @@
 
 <!-- Getting Started -->
 
-## :toolbox: Getting Started
+## Getting Started
 
 <!-- Prerequisites -->
 
@@ -68,7 +60,7 @@ This project uses Npm as package manager
 
 <!-- Run Locally -->
 
-### :running: Run Locally
+### Run Locally
 
 Clone the project
 
@@ -96,13 +88,13 @@ Start the server
 
 <!-- Usage -->
 
-## :eyes: Usage
+## Usage
 
 This is my Portfolio giving some of my projects,my RESUME, how someone can contact me, and lastly how can I be an appropriate choice for your company.
 
 <!-- Contributing -->
 
-## :wave: Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -110,7 +102,7 @@ Feel free to check the [issues page](https://github.com/chuaindia/My-Portfolio/i
 
 <!-- License -->
 
-## :warning: License
+## License
 
 See [MIT](./MIT.md) for more information.
 
@@ -129,7 +121,7 @@ See [MIT](./MIT.md) for more information.
 
 <!-- Acknowledgments -->
 
-## :gem: Acknowledgements
+## Acknowledgements
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
