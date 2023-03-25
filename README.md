@@ -17,12 +17,8 @@
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
 
-<!-- About the Project -->
+## :star2: My Portfolio Project
 
-## :star2: About the Project
-
-
-<!-- TechStack -->
 
 ### Tech Stack
 
@@ -35,7 +31,6 @@
   </ul>
 </details>
 
-<!-- Features -->
 
 ### Features
 
@@ -44,11 +39,11 @@
 - My Resume.
 - My Contact Details.
 
-<!-- Getting Started -->
+
 
 ## Getting Started
 
-<!-- Prerequisites -->
+
 
 ### Prerequisites
 
@@ -58,7 +53,7 @@ This project uses Npm as package manager
  npm install --global npm
 ```
 
-<!-- Run Locally -->
+
 
 ### Run Locally
 
