@@ -26,21 +26,20 @@ const projects = [
     source: 'https://github.com/chuaindia/Pokemon-WebApp',
   },
   {
-    title: 'Crypto-Currency App',
-    description: 'A website that provides accurate data about various crypto currencies. It will show you everything you need to know. This includes marketcap, top and low sellings, its history and gave you some core advices you should know before taking any step.',
-    imageUrl: './images/project_images/cryptocurrency.png',
-    technologies: ['React', 'Redux', 'Jest', 'JavaScript', 'CSS', 'Html'],
-    liveVersion: 'https://capstone-react-redux-chuaindia.netlify.app/',
-    source: 'https://github.com/chuaindia/capstone-react-redux',
-  },
-
-  {
     title: 'Awesome Books',
     description: 'Awesome books is a simple website that displays a list of books and allows user to add and remove books from that list. By building this application,managing data using JavaScript is utilised. In this project ES6 methods are used.Modular concept is incorporated and import/export option is used. To create date and time LUXON library is utilised.  ',
     imageUrl: './images/project_images/booklist.png',
     technologies: ['JavaScript', 'CSS', 'HTML', 'ES6 modules', 'Luxon'],
     liveVersion: 'https://chuaindia.github.io/AweSomeBooksAppwithES6/',
     source: 'https://github.com/chuaindia/AweSomeBooksAppwithES6',
+  },
+  {
+    title: 'Crypto-Currency App',
+    description: 'A website that provides accurate data about various crypto currencies. It will show you everything you need to know. This includes marketcap, top and low sellings, its history and gave you some core advices you should know before taking any step.',
+    imageUrl: './images/project_images/cryptocurrency.png',
+    technologies: ['React', 'Redux', 'Jest', 'JavaScript', 'CSS', 'Html'],
+    liveVersion: 'https://capstone-react-redux-chuaindia.netlify.app/',
+    source: 'https://github.com/chuaindia/capstone-react-redux',
   },
 
   {
