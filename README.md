@@ -114,6 +114,9 @@ See [MIT](./MIT.md) for more information.
 - Twitter: [@chuaghosh](https://twitter.com/chuaghosh25) 
 - LinkedIn: [@Ghosh](https://www.linkedin.com/in/tanusrighosh/)
 
+## Deployment Link :
+   https://deploy-preview-1--tanusrighoshportfolio.netlify.app/
+
 <!-- Acknowledgments -->
 
 ## Acknowledgements
