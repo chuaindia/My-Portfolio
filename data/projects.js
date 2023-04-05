@@ -42,15 +42,6 @@ const projects = [
     source: 'https://github.com/chuaindia/capstone-react-redux',
   },
 
-  {
-    title: 'Budget App',
-    description: 'With this App, one can manage budget: A list of transactions is there which associated with a category, so that one can see how much money to be spent for a particular choice. A user is allowed to: register and log in, so that the data is private to them. New category and new transaction can be created also. ',
-    imageUrl: './images/project_images/budget.png',
-    technologies: ['Ruby', 'Migration', 'Ruby on Rails', 'Rspec', 'MVC'],
-    liveVersion: 'https://www.loom.com/share/8cb3175e5c07456a8e902d6bd9639749',
-    source: 'https://github.com/chuaindia/ror_capstone_budget_app',
-  },
-
 ];
 
 export default projects;
