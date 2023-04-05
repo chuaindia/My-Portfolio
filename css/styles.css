@@ -884,9 +884,9 @@ body {
     width: 900px;
   }
 
-  .email {
+  /* .email {
     display: none;
-  }
+  } */
 
   .stories-card {
     transition: transform 1s;
