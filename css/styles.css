@@ -733,7 +733,7 @@ body {
 
   .nav-link {
     text-decoration: none;
-    position: relative;
+    position: fixed;
     display: inline-block;
     margin: 0 0.75rem;
     font-size: 1rem;
@@ -780,7 +780,7 @@ body {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 600;
-    margin: 20px;
+    margin: 120px;
     color: var(--text-color-2);
   }
 
