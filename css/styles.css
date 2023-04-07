@@ -13,6 +13,14 @@ body {
   overflow-x: hidden;
 }
 
+.header-mobile.nav-items {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
 ::-moz-selection {
   color: var(--text-color-2);
   background: var(--bg-color);
