@@ -21,7 +21,7 @@ const projects = [
     title: 'Pokemon App',
     description: 'The Javascript capstone project is about building a web application based on an external API. The data of the webapp will be provided by the chosen API.',
     imageUrl: './images/project_images/pokemon.jpg',
-    technologies: ['API', 'GitHub', 'WebPack', 'JavaScript', 'CSS', 'Html'],
+    technologies: ['API', 'GitHub', 'WebPack', 'JavaScript', 'CSS', 'HTML'],
     liveVersion: 'https://effortless-stardust-ca5ebb.netlify.app/',
     source: 'https://github.com/chuaindia/Pokemon-WebApp',
   },
@@ -37,9 +37,17 @@ const projects = [
     title: 'Crypto-Currency App',
     description: 'A website that provides accurate data about various crypto currencies. It will show you everything you need to know. This includes marketcap, top and low sellings, its history and gave you some core advices you should know before taking any step.',
     imageUrl: './images/project_images/cryptocurrency.png',
-    technologies: ['React', 'Redux', 'Jest', 'JavaScript', 'CSS', 'Html'],
+    technologies: ['React', 'Redux', 'Jest', 'JavaScript', 'CSS', 'HTML'],
     liveVersion: 'https://capstone-react-redux-chuaindia.netlify.app/',
     source: 'https://github.com/chuaindia/capstone-react-redux',
+  },
+  {
+    title: 'My favourites App',
+    description: 'This is an app that will show my favorites. And the image of my favorites will change continuously if one refreshes the page. The page is responsive also. And the search button in each favorite card will give my LinkedIn profile.',
+    imageUrl: './images/project_images/favourites.png',
+    technologies: ['JavaScript', 'Cascading Style Sheets(CSS)', 'hypertext markup language(HTML)'],
+    liveVersion: 'https://chuaindia.github.io/Magic_with_CSS_only/',
+    source: 'https://github.com/chuaindia/Magic_with_CSS_only/tree/featurebranch',
   },
 
 ];
