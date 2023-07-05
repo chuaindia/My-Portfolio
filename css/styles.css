@@ -13,6 +13,14 @@ body {
   overflow-x: hidden;
 }
 
+.header-mobile.nav-items {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
 ::-moz-selection {
   color: var(--text-color-2);
   background: var(--bg-color);
@@ -733,7 +741,7 @@ body {
 
   .nav-link {
     text-decoration: none;
-    position: relative;
+    position: fixed;
     display: inline-block;
     margin: 0 0.75rem;
     font-size: 1rem;
@@ -780,7 +788,7 @@ body {
     font-family: "Inter", sans-serif;
     font-style: normal;
     font-weight: 600;
-    margin: 20px;
+    margin: 120px;
     color: var(--text-color-2);
   }
 
@@ -884,9 +892,9 @@ body {
     width: 900px;
   }
 
-  .email {
+  /* .email {
     display: none;
-  }
+  } */
 
   .stories-card {
     transition: transform 1s;
